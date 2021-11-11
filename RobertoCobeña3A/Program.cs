@@ -7,7 +7,7 @@ namespace RobertoCobeña3A
         static void Main(string[] args)
         {
             int mayor = 0; int num1 = 0; int con = 0;
-            Console.WriteLine("Escriba la cantidad de números a comparar");
+            Console.WriteLine("Escriba la cantidad de números a comparar 123444444");
                int numeros = int.Parse(Console.ReadLine());
                for (int i = 1; i <= numeros; i++)
                {
